@@ -59,9 +59,9 @@ List of schemas , type:
 
 using command line, you can create a db using:
 
->```creatdb dbname```
+>```CREATE DATABASE dbname;```
 
-if this replies nothing means you are good to go. there is no error till now.
+if this replies CREATE TABLE means you are good to go. there is no error till now.
 
 ### show the list of Database
 
@@ -72,3 +72,13 @@ write the following command in the terminal:
 >```\l```
 
 this command will return the list of databases with owners and access privilages.
+
+### Create a database named test
+
+> ```CREATE DATABASE test;```
+
+this command will create e new database name test. 
+
+### Check the list again by:
+> ```\l```
+
