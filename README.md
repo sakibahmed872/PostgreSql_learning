@@ -26,7 +26,7 @@ PostgreSql is an open source SQL server for Relational Database system.PostgreSq
     ```
     This will autometically install the latest version that is available for your system from the web.(Internet Connection is required)
 
-    2. You can easily download and follow the instructions from PostgreSql documentation. [click here](https://www.postgresql.org/download/ "Download from here")
+    1. You can easily download and follow the instructions from PostgreSql documentation. [click here](https://www.postgresql.org/download/ "Download from here")
    
 2. ### Install on Manjaro 21.0.3 Ornara
     Using Terminal, copy-paste the following command
